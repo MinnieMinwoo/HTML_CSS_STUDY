@@ -8,3 +8,6 @@ Make main web page using typo effect
 
 ## Project 2
 Make 3D Flip Button using translate property
+
+## Project 3
+Make static main web page
